@@ -1,6 +1,6 @@
 {
   "name": "regex-exp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is library for default regex that has been most used by developer for validation",
   "main": "index.js",
   "scripts": {
