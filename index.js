@@ -31,6 +31,7 @@ module.exports = {
     "mm/dd/yy": /\b\d{2}\/\d{2}\/\d{2}\b/,
     "dd/mm/yy": /\b\d{2}\/\d{2}\/\d{2}\b/,
     "dd-mm-yy": /\b\d{2}-\d{2}-\d{2}\b/,
+    "mm-dd-yy" :/\b\d{2}-\d{2}-\d{2}\b/,
   },
   creditCard: {
     visa: /\b4[0-9]{12}(?:[0-9]{3})?\b/,
