@@ -1,4 +1,5 @@
 module.exports = {
+  // tuck buck did k do k sob so block
   email: /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/,
   url: /^(https?|ftp):\/\/[^\s/$.?#].[^\s]*$/,
   phone: {
